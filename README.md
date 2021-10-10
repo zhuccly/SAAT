@@ -33,5 +33,15 @@ The pre-training model and dataset are coming soon.
       ...  
 # Testing 
 
-Downlod the pre-trained models and put it into ./ckpt/test, then run Evaluation.py
+Downlods the pre-trained models and put it into ./ckpt/test, then run Evaluation.py
 
+# Bibtex
+
+    @InProceedings{Zhu_2021_ICCV,
+    author    = {Zhu, Congcong and Li, Xiaoqiang and Li, Jide and Dai, Songmin},
+    title     = {Improving Robustness of Facial Landmark Detection by Defending Against Adversarial Attacks},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {11751-11760}}
+   
