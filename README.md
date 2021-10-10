@@ -33,7 +33,5 @@ The pre-training model and dataset are coming soon.
       ...  
 # Testing 
 
-Downlods the pre-trained models and put it into ./ckpt/test, then run Evaluation.py
+Downlod the pre-trained models and put it into ./ckpt/test, then run Evaluation.py
 
-# Traing
-Traing code is conming soon
