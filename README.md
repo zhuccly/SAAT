@@ -6,7 +6,9 @@ PDF:[SAAT](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_R
 # Installation Instructions
 ## TensorFlow >= 1.10.1
 ## Python 2.7
-
+# Different strategies of perturbation generation
+<center><img src="https://github.com/zhuccly/SAAT/blob/main/Fig/Attacks.png?raw=true" height=200>
+</center>
 # Pretrained models and Masked 300W dataset
 
 The pre-training model and dataset are coming soon.
